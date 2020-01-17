@@ -1,1 +1,9 @@
 DATA ARE SECERT!
+
+1. Explanation of files:
+(1). Extreme weather prediction (typhoon): Predictive model using when extreme weather. We recommend use this model during extreme weather days;
+(2). Long_time prediction (Gamma optimized by hand): Predictive model using for normal days. Hyper parameters are shape and scale parameters in Gamma distribution. We optimize these parameters by experience (Easy but inefficient);
+(3). Long_time prediction (Gamma optimized by SAA): Predictive model using for normal days, but hyper parameters can be optimized by Simulated Annealing Algorithm (Difficult but Auto-optimization).
+
+We built predictive logistic regression model based on two features: "History flow" and "History sea level".
+"History" is the most innovative part in this project.
