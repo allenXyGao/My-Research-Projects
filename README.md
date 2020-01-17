@@ -1,8 +1,12 @@
 # Research Projects
-1. The Saltwater Intrusion Prediction in the Pearl River Estuary Based on Logistic Regression   
+1. The Saltwater Intrusion Prediction in the Pearl River Estuary Based on Logistic Regression
+
 Time: 2016-12 ~ 2018-07
+
 Category: Machine learning, Data Analysis, Data Visualization
+
 Programming Software: Matlab
+
 Key words: Logistic regression, Time-series prediction, Cummulative history effect, Simulated Annealing algorithm (SA)
 
 
