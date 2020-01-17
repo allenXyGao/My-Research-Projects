@@ -1,0 +1,5 @@
+The Video was processed by motion magnification (Phase-Based Video Motion Processing http://people.csail.mit.edu/nwadhwa/phase-video/ )
+
+We track the motion of pulse at the hand by optical flow and removed global motion by setting reference points that are not at the ROI.
+
+Finally, the signal output processed by FIR filter.
