@@ -13,7 +13,7 @@ Programming Software: Python, R, Tableau\
 Key words: Logistic regression, Classification and Regression Tree, Tomek-Link, Balance Cascade, Focal Loss, Adam 
 
 
-3. Small Motion Magnification and Pulse Waveform Extraction
+3. Small Motion Magnification and Pulse Waveform Extraction\
 Time: 2019-10 ~ 2020-01\
 Category: Video processing, Signal processing\
 Programming Software: Python, Matlab, Tableau\
