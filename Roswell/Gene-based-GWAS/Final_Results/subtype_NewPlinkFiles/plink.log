@@ -1,0 +1,42 @@
+
+@----------------------------------------------------------@
+|        PLINK!       |     v1.07      |   10/Aug/2009     |
+|----------------------------------------------------------|
+|  (C) 2009 Shaun Purcell, GNU General Public License, v2  |
+|----------------------------------------------------------|
+|  For documentation, citation & bug-report instructions:  |
+|        http://pngu.mgh.harvard.edu/purcell/plink/        |
+@----------------------------------------------------------@
+
+Web-based version check ( --noweb to skip )
+Recent cached web-check found...Problem connecting to web
+
+Writing this text to log file [ plink.log ]
+Analysis started: Tue Dec 14 11:56:57 2021
+
+Options in effect:
+	--bfile /projects/rpci/qzhu/xinyu/mywork/skatO_case_control/output/cleaned_dataset/cleaned_rare_variants/CLEAN.rare.ALLcasecontrol_cohort2
+	--keep /projects/rpci/qzhu/xinyu/mywork/skatO_case_control/output/subtypes_Tcell_Bcell/Bcell_Meta/ALLEVC2.cohort1.Bcell.sampleList.txt
+
+Reading map (extended format) from [ /projects/rpci/qzhu/xinyu/mywork/skatO_case_control/output/cleaned_dataset/cleaned_rare_variants/CLEAN.rare.ALLcasecontrol_cohort2.bim ] 
+45181 markers to be included from [ /projects/rpci/qzhu/xinyu/mywork/skatO_case_control/output/cleaned_dataset/cleaned_rare_variants/CLEAN.rare.ALLcasecontrol_cohort2.bim ]
+Reading pedigree information from [ /projects/rpci/qzhu/xinyu/mywork/skatO_case_control/output/cleaned_dataset/cleaned_rare_variants/CLEAN.rare.ALLcasecontrol_cohort2.fam ] 
+555 individuals read from [ /projects/rpci/qzhu/xinyu/mywork/skatO_case_control/output/cleaned_dataset/cleaned_rare_variants/CLEAN.rare.ALLcasecontrol_cohort2.fam ] 
+0 individuals with nonmissing phenotypes
+Assuming a disease phenotype (1=unaff, 2=aff, 0=miss)
+Missing phenotype value is also -9
+0 cases, 0 controls and 555 missing
+416 males, 139 females, and 0 of unspecified sex
+Reading genotype bitfile from [ /projects/rpci/qzhu/xinyu/mywork/skatO_case_control/output/cleaned_dataset/cleaned_rare_variants/CLEAN.rare.ALLcasecontrol_cohort2.bed ] 
+Detected that binary PED file is v1.00 SNP-major mode
+Reading individuals to keep [ /projects/rpci/qzhu/xinyu/mywork/skatO_case_control/output/subtypes_Tcell_Bcell/Bcell_Meta/ALLEVC2.cohort1.Bcell.sampleList.txt ] ... 0 read
+555 individuals removed with --keep option
+Before frequency and genotyping pruning, there are 45181 SNPs
+0 founders and 0 non-founders found
+Total genotyping rate in remaining individuals is 0
+0 SNPs failed missingness test ( GENO > 1 )
+0 SNPs failed frequency test ( MAF < 0 )
+After frequency and genotyping pruning, there are 45181 SNPs
+
+ERROR: Stopping as there are no individuals left for analysis
+
